@@ -7,10 +7,10 @@
 
 ## Web会議ツール
 運営会議やインターネット集会の際に使えるWeb会議ツールについてご紹介します。
-- [どのWeb会議サービスを選んだらいいの？](web-meeting-guide/WhatShouldIChoose.md)
-- [LINEでのグループ通話]()
-- [zoomでのグループ通話]()
-- [meetでのグループ通話]()
+- [どのWeb会議サービスを選んだらいいの？(執筆中)](web-meeting-guide/WhatShouldIChoose.md)
+- [LINEでのグループ通話(執筆中)]()
+- [zoomでのグループ通話(執筆中)]()
+- [meetでのグループ通話(執筆中)]()
 
 -----
 
@@ -18,7 +18,14 @@
 
 直接会わなくても遠隔操作でパソコン操作が苦手な人のサポートをできる方法をご紹介します。
 
-- [Google Chromeリモートディスクトップの使い方](remote-desktop/HowToUseChromeRD.md)
+- [Google Chromeリモートディスクトップの使い方(執筆中)](remote-desktop/HowToUseChromeRD.md)
+
+-----
+
+## ファイル共有
+
+遠隔でのファイル共有ってどうしたらいいの？そんな疑問の方はこちら
+-[Google Driveを使ったファイル共有(執筆中)](file-share/HowToUseGDrive.md)
 
 -----
 
