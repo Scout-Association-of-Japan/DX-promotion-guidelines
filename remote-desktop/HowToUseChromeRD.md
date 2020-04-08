@@ -16,5 +16,7 @@
 パソコンにGoogle Chromeがインストールされていない場合は[ここ](https://www.google.com/intl/ja_jp/chrome/)にアクセスしてGoogle Chromeをインストールしてください。
 
 ## リモートアクセスの設定
-インストールしたGoogle Chromeを起動して、アドレスバーに`remotedesktop.google.com/access`と入力してEnterキーを押します
+インストールしたGoogle Chromeを起動して、アドレスバーに`remotedesktop.google.com/access`と入力してEnterキーを押します。
+
+*_リモートアクセスを使用するにはGoogle アカウントが必要です。既にアカウントを取得している場合はログインをしてください。未取得の場合は作成してください。_*
 
