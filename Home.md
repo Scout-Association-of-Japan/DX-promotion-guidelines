@@ -7,7 +7,7 @@
 
 ## Web会議ツール
 運営会議やインターネット集会の際に使えるWeb会議ツールについてご紹介します。
-- [どのWeb会議サービスを選んだらいいの？(執筆中)](web-meeting-guide/WhatShouldIChoose.md)
+- [どのWeb会議サービスを選んだらいいの？](web-meeting-guide/WhatShouldIChoose.md)
 - [LINEでのグループ通話(執筆中)]()
 - [zoomでのグループ通話(執筆中)]()
 - [meetでのグループ通話(執筆中)]()
