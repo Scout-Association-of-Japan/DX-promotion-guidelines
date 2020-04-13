@@ -26,7 +26,7 @@
 
 遠隔でのファイル共有ってどうしたらいいの？そんな疑問の方はこちら
 
-- [Google Driveを使ったファイル共有(執筆中)](file-share/HowToUseGDrive.md)
+- [Google Driveを使ったファイル共有](file-share/HowToUseGDrive.md)
 
 -----
 
