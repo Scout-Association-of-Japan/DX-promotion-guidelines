@@ -18,7 +18,7 @@
 
 直接会わなくても遠隔操作でパソコン操作が苦手な人のサポートをできる方法をご紹介します。
 
-- [Google Chromeリモートディスクトップの使い方(執筆中)](remote-desktop/HowToUseChromeRD.md)
+- [Google Chromeリモートディスクトップの使い方](remote-desktop/HowToUseChromeRD.md)
 
 -----
 
