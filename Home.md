@@ -10,7 +10,7 @@
 - [どのWeb会議ツールを選んだらいいの？](web-meeting-guide/WhatShouldIChoose.md)
 - [LINEでのグループ通話(執筆中)]()
 - [zoomでのグループ通話(執筆中)]()
-- [meetでのグループ通話(執筆中)]()
+- [meetでのグループ通話](https://sites.google.com/scout.jp/meet)
 
 -----
 
