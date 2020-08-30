@@ -7,18 +7,18 @@
 
 ## Web会議ツール
 運営会議やインターネット集会の際に使えるWeb会議ツールについてご紹介します。
+
 - [どのWeb会議ツールを選んだらいいの？](web-meeting-guide/WhatShouldIChoose.md)
-- [LINEでのグループ通話(執筆中)]()
+- [meetでのグループ通話](web-meeting-guide/meet/GoogleMeet.md)
 - [zoomでのグループ通話](web-meeting-guide/zoom/ZoomMeeting.md)
-- [meetでのグループ通話](https://sites.google.com/scout.jp/meet)
 
 -----
 
-## リモートディスクトップ
+## リモートデスクトップ
 
 直接会わなくても遠隔操作でパソコン操作が苦手な人のサポートをできる方法をご紹介します。
 
-- [Google Chromeリモートディスクトップの使い方](remote-desktop/HowToUseChromeRD.md)
+- [Google Chromeリモートデスクトップの使い方](remote-desktop/HowToUseChromeRD.md)
 
 -----
 
@@ -30,7 +30,12 @@
 
 -----
 
+## よくある質問
+G Suiteだけでなく各種ツールの使い方や疑問点など、DX推進室によく寄せられるFAQを掲載しています。
 
+- [よくある質問集](Faq.md)
+
+-----
 
 このガイドは[ボーイスカウト日本連盟のGitHub](https://github.com/Scout-Association-of-Japan/DX-promotion-guidelines)で管理されています。
 
