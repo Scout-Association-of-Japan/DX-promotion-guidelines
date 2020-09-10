@@ -12,7 +12,7 @@
 |Facebookメッセンジャー|無料||[使い方(執筆中)]() |
 |Slack|一部無料|無料プランではグループ通話不可|[使い方(執筆中)]() |
 |LINE Works|無料||[使い方(執筆中)]() |
-|zoom|一部無料|無料プランではグループ通話は1回40分限定|[使い方](zoom/ZoomMeeting.md) |
-|meet|有料|日本連盟では[デジタルツール配布プログラム](https://www.scout.or.jp/member/digital_tool_program/)としてmeetを含めたG Suiteアカウント提供を実施中です。|[使い方](https://sites.google.com/scout.jp/meet) |
+|Zoom|一部無料|無料プランではグループ通話は1回40分限定|[使い方](zoom/ZoomMeeting.md) |
+|Meet|一部無料(※)|日本連盟では[デジタルツール配布プログラム](https://www.scout.or.jp/member/digital_tool_program/)としてmeetを含めたG Suiteアカウント提供をしており、有償版のMeetが無償にてご利用頂けます。<br>一般のGoogleアカウントでもMeetが利用できるようになりました。制限がありますが無償にてご利用頂けます。|[使い方](https://sites.google.com/scout.jp/meet)|
 
-※zoomは現在、いくつかのセキュリティ問題が発覚しています。ご利用にあたってはご自身の判断でお使いください。
+※各メーカーから提供されるアプリなどはセキュリティ対策として常に最新版を使うようにしてください。
