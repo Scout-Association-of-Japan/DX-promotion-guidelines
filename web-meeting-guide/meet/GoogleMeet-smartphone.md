@@ -12,4 +12,4 @@
 詳しくは以下の各セクションをご覧下さい
 
 - [iOS端末にインストール&会議へ参加する方法](GoogleMeet-ios.md)
-- [android端末にインストール&会議へ参加する方法]()
+- [android端末にインストール&会議へ参加する方法](GoogleMeet-android.md)
