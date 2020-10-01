@@ -1,5 +1,10 @@
-# Google Meet 高度な使い方ガイド
-[Google Meet](https://apps.google.com/meet/)での高度な使い方です。
+---
+title: Google Meet 高度な使い方ガイド
+---
+
+[Google Meet使い方ガイド](GoogleMeet.html) > 高度な使い方
+
+[Google Meet](https://apps.google.com/meet/)での高度な使い方をご紹介します。
 
 - [画面共有](#画面共有)
 - [カレンダーからミーティング予約](#カレンダーからオンラインミーティングを開催してみよう)
