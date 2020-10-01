@@ -1,6 +1,6 @@
 Contributors
 ============================================
-本サイトにご協力いただいた皆様
+本サイトの整備にご協力いただいた皆様です。
 
 | Name(link) | Contribution |
 | --- | --- |
@@ -8,4 +8,4 @@ Contributors
 | [tta1](https://github.com/caffisenna) | Writing |
 | [dunesfolk](https://github.com/dunesfolk) | Writing |
 
-ご協力ありがとうございます！！
+ご協力ありがとうございます！
