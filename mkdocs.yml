@@ -1,3 +1,33 @@
-site_name: My Docs
+site_name: ボーイスカウト日本連盟 デジタルツール利用ガイド
 theme:
   name: material
+  language: ja
+  logo: images/saj_logo.png
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.tabs
+extra_css:
+  - stylesheets/additional.css
+repo_url: https://github.com/Scout-Association-of-Japan/DX-promotion-guidelines
+repo_name: GitHubリポジトリ
+google_analytics:
+  - UA-XXXXXXXX-X
+  - auto
+plugins:
+  - search:
+      lang: ja
+
+
+nav:
+  - ホーム: index.md
+  - Web会議ツール:
+    - Installation: getting-started.md
+  - ファイル共有:
+    - Changing the colors: setup/changing-the-colors.md
+  - フォーラム:
+    - Abbreviations: reference/abbreviations.md
+  - リモートデスクトップ:
+    - Meta tags: reference/meta-tags.md
+  - よくある質問:
+    - Release notes: changelog.md
