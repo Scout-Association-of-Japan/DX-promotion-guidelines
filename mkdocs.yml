@@ -10,17 +10,34 @@ theme:
 extra_css:
   - stylesheets/additional.css
 repo_url: https://github.com/Scout-Association-of-Japan/DX-promotion-guidelines
-repo_name: GitHubリポジトリ
+repo_name: Fork me on GitHub
 google_analytics:
   - UA-XXXXXXXX-X
   - auto
 plugins:
   - search:
       lang: ja
-
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - footnotes
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 nav:
   - ホーム: index.md
+  - テスト: test.md
   - Web会議ツール:
     - Installation: getting-started.md
   - ファイル共有:
