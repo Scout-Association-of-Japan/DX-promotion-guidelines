@@ -45,11 +45,11 @@ G Suiteだけでなく各種ツールの使い方や疑問点など、DX推進�
 
 -----
 
-## 利用規約
+## 利用規約/利用規範
 
-デジタルツールの利用にあたっては、以下の利用規約を遵守してください。
+デジタルツールの利用にあたっては、以下の利用規約に同意し、利用規範を遵守してください。
 
-- [デジタルツール配布プログラム利用規約](https://docs.google.com/document/d/e/2PACX-1vTgWKAjFIb0YqrtzVmrn7g-Fek3d13IJCZ9uoYrrtQ31qCHwS5EPJoxIBBq7nsrG3_FLx95qxkvljHI/pub)
+- [デジタルツール配布プログラム利用規約/利用規範](https://docs.google.com/document/d/e/2PACX-1vTgWKAjFIb0YqrtzVmrn7g-Fek3d13IJCZ9uoYrrtQ31qCHwS5EPJoxIBBq7nsrG3_FLx95qxkvljHI/pub)
 
 -----
 
