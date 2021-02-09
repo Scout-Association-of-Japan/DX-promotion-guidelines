@@ -32,4 +32,4 @@ G Suiteへのログイン方法と各アプリの呼び出し方法をご紹介�
 以下の「パスワード再設定申請フォーム」にて必要事項を記入し申請をしてください。<br>
 １～２営業日以内にご連絡を頂いた方にメールでご返答します。<br>
 
-https://forms.gle/99wLRaGtrZoYnhkY7
+[パスワード再設定申請フォーム](https://forms.gle/99wLRaGtrZoYnhkY7)
