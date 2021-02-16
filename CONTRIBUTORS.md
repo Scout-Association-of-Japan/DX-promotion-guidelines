@@ -8,5 +8,6 @@ Contributors
 | [tta1](https://github.com/caffisenna) | Writing |
 | [dunesfolk](https://github.com/dunesfolk) | Writing |
 | [kazuemon](https://github.com/kazuemon) | Writing |
+| [n-takano](https://github.com/n-takano) | Writing |
 
 ご協力ありがとうございます！
