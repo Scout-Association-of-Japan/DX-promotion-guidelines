@@ -12,7 +12,7 @@ extra_css:
 repo_url: https://github.com/Scout-Association-of-Japan/DX-promotion-guidelines
 repo_name: Fork me on GitHub
 google_analytics:
-  - UA-24540409-14
+  - UA-XXXXXXXX-X
   - auto
 plugins:
   - search:
