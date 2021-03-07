@@ -1,20 +1,50 @@
----
-title: ホーム
----
-# Welcome to MkDocs
+# ボーイスカウト日本連盟デジタルツール利用ガイド
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+このガイドは隊や団、県連盟などの組織運営の効率化とコロナウイルス感染症の拡大防止のためにデジタルツールを活用し、ボーイスカウト運動を継続するために使える各種ツールの使い方やガイドラインを集めたものです。<br />
+このガイドはボーイスカウト日本連盟DX推進室が制作・管理しています。定期的にアップデートを行いますのでご確認ください。
 
-## Commands
+-------
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Web会議ツール
+運営会議やインターネット集会の際に使えるWeb会議ツールについてご紹介します。
 
-## Project layout
+- [どのWeb会議ツールを選んだらいいの？](web-meeting-guide/WhatShouldIChoose.md)
+- [meetでのグループ通話](web-meeting-guide/meet/GoogleMeet.md)
+- [zoomでのグループ通話](web-meeting-guide/zoom/ZoomMeeting.md)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+-----
+
+## リモートデスクトップ
+
+直接会わなくても遠隔操作でパソコン操作が苦手な人のサポートをできる方法をご紹介します。
+
+- [Google Chromeリモートデスクトップの使い方](remote-desktop/HowToUseChromeRD.md)
+
+-----
+
+## ファイル共有
+
+遠隔でのファイル共有ってどうしたらいいの？そんな疑問の方はこちら。
+
+- [Google Driveを使ったファイル共有](file-share/HowToUseGDrive.md)
+
+-----
+
+## フォーラムの使い方
+
+ユーザー専用フォーラムの使い方ガイドです。
+
+- [利用グループフォーラム 使い方ガイド](group/HowtoUseUserForum.md)
+
+-----
+
+## よくある質問
+G Suiteだけでなく各種ツールの使い方や疑問点など、DX推進室によく寄せられるFAQを掲載しています。
+
+- [よくある質問集](Faq.md)
+
+-----
+
+このガイドは[ボーイスカウト日本連盟のGitHub](https://github.com/Scout-Association-of-Japan/DX-promotion-guidelines)で管理されています。
+
+皆様からの修正提案(Pull Request)や要望(Issue)などお待ちしております。
