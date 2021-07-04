@@ -1,8 +1,8 @@
 ---
-title: G Suiteへのログイン方法
+title: Google Workspaceへのログイン方法
 ---
 
-G Suiteへのログイン方法と各アプリの呼び出し方法をご紹介します。
+Google Workspaceへのログイン方法と各アプリの呼び出し方法をご紹介します。
 
 ## ログインする
 

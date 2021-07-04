@@ -6,9 +6,9 @@
 
 -------
 
-## G Suite関連
+## Google Workspace関連
 
-- [G Suiteへのログイン方法](gsuite/howtologin.md)
+- [Google Workspaceへのログイン方法](gsuite/howtologin.md)
 - [Meetに関してよくある質問](web-meeting-guide/meet/GoogleMeet-faq.md)
 	- [デジタルツール配布プログラム利用団専用フォーラム](https://groups.google.com/u/2/a/meet.scout.jp/g/users-group)もご活用下さい。(要ログイン)
 - Driveに関してよくある質問
