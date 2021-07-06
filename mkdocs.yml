@@ -1,4 +1,5 @@
 site_name: ボーイスカウト日本連盟 デジタルツール利用ガイド
+site_url: 'http://127.0.0.1:8000'
 theme:
   name: material
   language: ja
@@ -17,6 +18,7 @@ google_analytics:
 plugins:
   - search:
       lang: ja
+  - git-revision-date
 markdown_extensions:
   - admonition
   - attr_list
@@ -36,7 +38,7 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 nav:
-  - ホーム: 
+  - ホーム:
     - ボーイスカウト日本連盟デジタルツール利用ガイド: index.md
   - Web会議ツール:
     - どの会議ツールを選んだらいいの?: web-meeting-guide/WhatShouldIChoose.md
@@ -44,7 +46,7 @@ nav:
     - Googleドライブでファイル共有をしてみよう: file-share/HowToUseGDrive.md
   - リモートデスクトップ:
     - リモートデスクトップを使ってみよう: remote-desktop/HowToUseChromeRD.md
-  - よくある質問: 
-    - よくある質問集(FAQ): Faq.md
+  - よくある質問:
+    - よくある質問集(FAQ): faq/index.md
   - フォーラム:
     - デジタルツール提供プログラム利用グループ: group/HowtoUseUserForum.md
