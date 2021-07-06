@@ -1,5 +1,4 @@
 site_name: ボーイスカウト日本連盟 デジタルツール利用ガイド
-site_url: 'http://127.0.0.1:8000'
 theme:
   name: material
   language: ja
