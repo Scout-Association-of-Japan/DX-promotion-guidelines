@@ -17,6 +17,7 @@ google_analytics:
 plugins:
   - search:
       lang: ja
+  - git-revision-date
 markdown_extensions:
   - admonition
   - attr_list
