@@ -7,11 +7,6 @@
 -------
 
 ## Google Workspace関連
-
 - [Meetに関してよくある質問](meet/)
 	- [デジタルツール配布プログラム利用団専用フォーラム](https://groups.google.com/u/2/a/meet.scout.jp/g/users-group)もご活用下さい。(要ログイン)
-<!-- - Driveに関してよくある質問 -->
-<!-- - [Gmailに関してよくある質問](gmail/faq/index.md) -->
-
-## その他のツール
-<!-- - Zoomに関してよくある質問 -->
+- [Gmailに関してよくある質問](gmail/)
