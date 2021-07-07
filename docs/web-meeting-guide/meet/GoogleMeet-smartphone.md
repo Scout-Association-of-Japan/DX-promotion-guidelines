@@ -2,7 +2,7 @@
 title : Google Meet スマートフォン & タブレットでの利用について
 ---
 
-[Google Meet使い方ガイド](GoogleMeet.html) > Google Meet スマートフォン & タブレットでの利用について
+[Google Meet使い方ガイド](GoogleMeet.md) > Google Meet スマートフォン & タブレットでの利用について
 
 ## スマートフォン、タブレットからMeetに参加する
 
