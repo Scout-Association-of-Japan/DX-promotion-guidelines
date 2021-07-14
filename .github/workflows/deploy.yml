@@ -1,7 +1,9 @@
-name: Build
-on: [pull_request]
+name: Deploy
+on: 
+  push:
+    branches: [master]
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -19,5 +21,5 @@ jobs:
       - name: Install requirements
         run: python3 -m pip install -r requirements.txt
 
-      - name: Build
-        run: python3 -m mkdocs build
+      - name: Deploy 🚀
+        run: python3 -m mkdocs gh-deploy --force
