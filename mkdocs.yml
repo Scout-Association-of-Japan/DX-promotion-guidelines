@@ -4,6 +4,7 @@ theme:
   custom_dir: overrides
   language: ja
   logo: images/saj_logo.png
+  favicon: images/saj_logo.png
   icon:
     repo: fontawesome/brands/github
   features:
