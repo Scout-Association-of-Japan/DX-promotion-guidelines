@@ -2,8 +2,6 @@
 title : Google Meet android端末にインストール&使い方
 ---
 
-[Google Meet使い方ガイド](GoogleMeet.md) > [スマートフォン & タブレットでの利用について](GoogleMeet-smartphone.md) > Android
-
 ## android端末にMeetのアプリをインストールする方法
 
 ![](images/and-1.jpg)
