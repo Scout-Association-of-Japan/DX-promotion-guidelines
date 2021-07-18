@@ -1,6 +1,7 @@
 site_name: ボーイスカウト日本連盟 デジタルツール利用ガイド
 theme:
   name: material
+  custom_dir: overrides
   language: ja
   logo: images/saj_logo.png
   icon:
