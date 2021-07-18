@@ -3,3 +3,12 @@
   --md-primary-fg-color--light: #1e946d;
   --md-primary-fg-color--dark:  #0c3d2d;
 }
+
+h2 {
+  color: #1c7d4d;
+  font-weight: normal;
+}
+
+a {
+  text-decoration-line: underline;
+}
