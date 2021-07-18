@@ -70,8 +70,7 @@ nav:
   - リモートデスクトップ:
     - リモートデスクトップを使ってみよう: remote-desktop/HowToUseChromeRD.md
   - よくある質問:
-    - よくある質問集(FAQ): faq/index.md
-    - Google Workspaceへのログイン方法: faq/google_workspace/how_to_login/index.md
+    - Google Workspaceへのログイン方法: google_workspace/how_to_login/index.md
     - サブアカウントの追加方法: faq/google_workspace/create_sub_accounts/index.md
     - パスワードを紛失してしまった場合: faq/google_workspace/password_recovery/index.md
     - Meetに関してよくある質問: faq/meet/index.md
