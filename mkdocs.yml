@@ -51,6 +51,7 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 nav:
+  - ホーム: index.md
   - Web会議ツール:
     - どの会議ツールを選んだらいいの?: web-meeting-guide/WhatShouldIChoose.md
     - Meetの使い方:
