@@ -1,4 +1,5 @@
 site_name: ボーイスカウト日本連盟 デジタルツール利用ガイド
+copyright: Copyright &copy; 2020- Scout Association of Japan
 theme:
   name: material
   language: ja
@@ -7,6 +8,7 @@ theme:
     repo: fontawesome/brands/github
   features:
     - navigation.tabs
+  custom_dir: 'theme_custom'
 extra_css:
   - stylesheets/additional.css
 repo_url: https://github.com/Scout-Association-of-Japan/DX-promotion-guidelines
@@ -15,6 +17,15 @@ extra:
   analytics:
     provider: google
     property: G-D2E61LC0JY
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/ScoutingJapan
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/user/ScoutingJapan
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/scout.or.jp
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/scout_association_of_japan/
 plugins:
   - search:
       lang: ja
