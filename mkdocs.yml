@@ -10,7 +10,6 @@ theme:
     repo: fontawesome/brands/github
   features:
     - navigation.tabs
-  custom_dir: 'theme_custom'
 extra_css:
   - stylesheets/additional.css
 repo_url: https://github.com/Scout-Association-of-Japan/DX-promotion-guidelines
