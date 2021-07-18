@@ -2,8 +2,10 @@ site_name: ボーイスカウト日本連盟 デジタルツール利用ガイ�
 copyright: Copyright &copy; 2020- Scout Association of Japan
 theme:
   name: material
+  custom_dir: overrides
   language: ja
   logo: images/saj_logo.png
+  favicon: images/saj_logo.png
   icon:
     repo: fontawesome/brands/github
   features:
