@@ -52,6 +52,11 @@ Google Workspaceだけでなく各種ツールの使い方や疑問点など、D
 
 -----
 
+## 貢献者
+- [本サイトの整備にご協力いただいた皆様](https://github.com/Scout-Association-of-Japan/DX-promotion-guidelines/blob/master/CONTRIBUTORS.md)
+
+-----
+
 このガイドは[ボーイスカウト日本連盟のGitHub](https://github.com/Scout-Association-of-Japan/DX-promotion-guidelines)で管理されています。
 
 皆様からの修正提案(Pull Request)や要望(Issue)などお待ちしております。
