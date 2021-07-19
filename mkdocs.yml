@@ -1,5 +1,6 @@
 site_name: ボーイスカウト日本連盟 デジタルツール利用ガイド
 copyright: Copyright &copy; 2020- Scout Association of Japan
+site_url: https://scout-association-of-japan.github.io/DX-promotion-guidelines/
 theme:
   name: material
   custom_dir: overrides
