@@ -53,7 +53,7 @@ Google Workspaceだけでなく各種ツールの使い方や疑問点など、D
 -----
 
 ## 貢献者
-- [本サイトの整備にご協力いただいた皆様](./CONTRIBUTORS.md)
+- [本サイトの整備にご協力いただいた皆様](https://github.com/Scout-Association-of-Japan/DX-promotion-guidelines/blob/master/CONTRIBUTORS.md)
 
 -----
 
