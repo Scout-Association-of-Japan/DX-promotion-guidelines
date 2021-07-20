@@ -19,10 +19,10 @@
 ## Zoomのアプリをインストールする
 Zoomのアプリをインストールしておくと便利なので、まずはお使いのデバイスにアプリをインストールしましょう。
 
-* [Playストアからインストールはこちら](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
+* [Playストアからインストールはこちら](https://play.google.com/store/apps/details?id=us.zoom.videomeetings){:target="_blank" :rel="noreferrer"}
 
 ![](images/android/android_2.jpg)
-[ここ](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)を開くとPlayストアが開くので、アプリ名を確認して`インストール`をタップします。
+[ここ](https://play.google.com/store/apps/details?id=us.zoom.videomeetings){:target="_blank" :rel="noreferrer"}を開くとPlayストアが開くので、アプリ名を確認して`インストール`をタップします。
 
 ![](images/android/android_3.jpg)
 インストールが完了したら`開く`をタップします。

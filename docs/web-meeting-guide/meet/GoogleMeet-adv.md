@@ -2,7 +2,7 @@
 title: Google Meet 高度な使い方ガイド
 ---
 
-[Google Meet](https://apps.google.com/meet/)での高度な使い方をご紹介します。
+[Google Meet](https://apps.google.com/meet/){:target="_blank" :rel="noreferrer"}での高度な使い方をご紹介します。
 
 ## 画面共有
 ![](images/adv-1.jpg)

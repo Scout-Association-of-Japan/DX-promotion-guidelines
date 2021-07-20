@@ -22,10 +22,10 @@
 ### Chromeリモートデスクトップの動作条件
 * インターネットに接続されていること
 * Googleアカウントにログインしていること
-* Windows10の場合Sモードを解除していること (解除していないとChromeのインストールができません) [Windows 10 の S モードを解除する](https://support.microsoft.com/ja-jp/help/4456067/windows-10-switch-out-of-s-mode)
+* Windows10の場合Sモードを解除していること (解除していないとChromeのインストールができません) [Windows 10 の S モードを解除する](https://support.microsoft.com/ja-jp/help/4456067/windows-10-switch-out-of-s-mode){:target="_blank" :rel="noreferrer"}
 
 ### GoogleChromeのインストール
-パソコンにGoogle Chromeがインストールされていない場合は[ここ](https://www.google.com/intl/ja_jp/chrome/)にアクセスしてGoogle Chromeをインストールしてください。
+パソコンにGoogle Chromeがインストールされていない場合は[ここ](https://www.google.com/intl/ja_jp/chrome/){:target="_blank" :rel="noreferrer"}にアクセスしてGoogle Chromeをインストールしてください。
 
 ### リモートアクセスの設定
 インストールしたGoogle Chromeを起動して、アドレスバーに`remotedesktop.google.com/access`と入力してEnterキーを押します。
@@ -70,7 +70,7 @@
 ### サポートを受けるとき
 ![rd_10](./images/rd_10.jpg)
 
-chromeで[ここ](https://remotedesktop.google.com/support)にアクセスして、図中の[コードを生成]をクリックします。
+chromeで[ここ](https://remotedesktop.google.com/support){:target="_blank" :rel="noreferrer"}にアクセスして、図中の[コードを生成]をクリックします。
 *サポート相手と事前に連絡を取り、お互いに同時間帯にPCの前で操作できる状態になっている必要があります。またパソコンを遠隔で操作する権限を与えるため、信頼できる人にお願いしましょう!*
 
 ![rd_11](./images/rd_11.jpg)
@@ -87,7 +87,7 @@ chromeで[ここ](https://remotedesktop.google.com/support)にアクセスして
 
 ### 遠隔地のパソコンにアクセスする
 #### 遠隔地のパソコンにアクセス
-[ここ](https://remotedesktop.google.com/)にアクセスして[リモートアクセス]をクリックします。
+[ここ](https://remotedesktop.google.com/){:target="_blank" :rel="noreferrer"}にアクセスして[リモートアクセス]をクリックします。
 
 ![rd_14](./images/rd_14.jpg)
 

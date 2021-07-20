@@ -14,7 +14,7 @@
 - [Gmailに関してよくある質問](gmail/)
 
 ## ユーザーフォーラムで解決
-デジタルツール配布プログラムのユーザー同士で問題を解決できる[専用フォーラム](https://groups.google.com/u/2/a/meet.scout.jp/g/users-group)もご活用下さい。(配布アカウントによるログインが必要です)
+デジタルツール配布プログラムのユーザー同士で問題を解決できる[専用フォーラム](https://groups.google.com/u/2/a/meet.scout.jp/g/users-group){:target="_blank" :rel="noreferrer"}もご活用下さい。(配布アカウントによるログインが必要です)
 
 - [フォーラムの使い方](../group/HowtoUseUserForum/)
 

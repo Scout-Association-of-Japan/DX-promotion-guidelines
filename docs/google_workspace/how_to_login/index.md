@@ -6,7 +6,7 @@ Google Workspaceへのログイン方法と各アプリの呼び出し方法を�
 
 ## ログインする
 
-1. ブラウザから [https://www.google.com](https://www.google.com)にアクセスし、右上の `ログイン` をクリックします。
+1. ブラウザから [https://www.google.com](https://www.google.com){:target="_blank" :rel="noreferrer"}にアクセスし、右上の `ログイン` をクリックします。
    !['img'](images/login_1.jpg)
 
 2. 枠内に日本連盟から発行されたアカウント(xxxx@\*\*\*\*.scout.jp, xxxxは団・地区の英語表記、\*\*\*\*は都道府県の英語表記)のメールアドレスを入力して、`次へ`をクリックします。
@@ -31,4 +31,4 @@ Google Workspaceへのログイン方法と各アプリの呼び出し方法を�
 日本連盟から発行しているGoogle Workspaceの親アカウントもしくはサブアカウントのパスワードを紛失した場合は以下の「パスワード再設定申請フォーム」にて必要事項を記入し申請をしてください。<br>
 １～２営業日以内にご連絡を頂いた方にメールでご返答します。<br>
 
-[パスワード再設定申請フォーム](https://forms.gle/99wLRaGtrZoYnhkY7)
+[パスワード再設定申請フォーム](https://forms.gle/99wLRaGtrZoYnhkY7){:target="_blank" :rel="noreferrer"}

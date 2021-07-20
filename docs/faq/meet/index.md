@@ -5,7 +5,7 @@ title : Google Meet よくある質問
 [よくある質問](../index.md) > Google Meet よくある質問
 
 ## 団以外のアカウントを発行して欲しい
-2020年9月1日より各団と地区に対してアカウントを発行しております。[プログラムの利用申請](https://www.scout.or.jp/member/digital_tool_program/)
+2020年9月1日より各団と地区に対してアカウントを発行しております。[プログラムの利用申請](https://www.scout.or.jp/member/digital_tool_program/){:target="_blank" :rel="noreferrer"}
 
 スカウト活動を目的としたものならばお使い頂けますのでご活用下さい。
 
@@ -57,7 +57,7 @@ Meetの設定画面でご使用のカメラまたはマイクが選択肢に出�
 
 【Meetでの設定の仕方】
 
-ミーティング開始前であれば、[https://meet.google.com](https://meet.google.com/) にアクセスし、画面上部の歯車マークをクリックします。
+ミーティング開始前であれば、[https://meet.google.com](https://meet.google.com/){:target="_blank" :rel="noreferrer"} にアクセスし、画面上部の歯車マークをクリックします。
 
 - 「音声」タブでは使用するマイクとスピーカーを選択します。
 - 「動画」タブでは使用するカメラを選択します。
@@ -116,7 +116,7 @@ Meet会議の主催者は必ずGoogle Workspaceのアカウント(日本連盟�
 Meetの公式機能としてタイル表示レイアウトを導入し、最大16人を同時表示可能になりました。
 2020年4月23日から実装が開始されており、順次適用されます。
 
-[公式リリース](https://cloud.google.com/blog/products/productivity-collaboration/introducing-tiled-view-and-other-top-requested-features-in-google-meet)(英語)
+[公式リリース](https://cloud.google.com/blog/products/productivity-collaboration/introducing-tiled-view-and-other-top-requested-features-in-google-meet){:target="_blank" :rel="noreferrer"}(英語)
 
 ---
 
@@ -173,7 +173,7 @@ Meetで会議予定を設定しスマホなどのアプリで「今後の会議�
 
 
 
-日本連盟から提供しているMeetアカウントは[Google Workspace版(Education Fundamentals)](https://edu.google.com/intl/ja_ALL/products/workspace-for-education/editions/)のものになります。
+日本連盟から提供しているMeetアカウントは[Google Workspace版(Education Fundamentals)](https://edu.google.com/intl/ja_ALL/products/workspace-for-education/editions/){:target="_blank" :rel="noreferrer"}のものになります。
 
 ---
 
@@ -218,7 +218,7 @@ Meetで会議予定を設定しスマホなどのアプリで「今後の会議�
 
 ミーティングのURL(ミーティングコード)は発行する度に変わるので、毎回の通知が必要になりますが、一度発行したURLは90日間使用する事ができます。
 
-[同じリンク/ダイヤルインコードを使用して定期的な会議を開くことはできますか？](https://support.google.com/meet/thread/37248056?hl=en)(英語)
+[同じリンク/ダイヤルインコードを使用して定期的な会議を開くことはできますか？](https://support.google.com/meet/thread/37248056?hl=en){:target="_blank" :rel="noreferrer"}(英語)
 
 この記事によると発行したURLは90日間使われないと破棄されるとのことなので、90日経過前に再利用することで使い続けることができるようです。(こちらで確認したところ、一週間の内に何度も同じURLでミーティングを開催することができました)
 

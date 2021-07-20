@@ -44,7 +44,7 @@ leader1@hoge.com leader2@fuga.com
 
 【ライブストリーム】
 
-通常の使用においては設定の必要はありません。(詳しくは[ビデオ会議のライブ ストリーミング](https://support.google.com/meet/answer/9308630?co=GENIE.Platform%3DDesktop&hl=ja)を参照してください)
+通常の使用においては設定の必要はありません。(詳しくは[ビデオ会議のライブ ストリーミング](https://support.google.com/meet/answer/9308630?co=GENIE.Platform%3DDesktop&hl=ja){:target="_blank" :rel="noreferrer"}を参照してください)
 
 ![](images/cal-5.jpg)
 

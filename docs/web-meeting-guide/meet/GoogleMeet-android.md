@@ -8,7 +8,7 @@ title : Google Meet android端末にインストール&使い方
 
 Playストア を起動します。
 
-このページをandroid端末(スマートフォンもしくはタブレット)で見ている場合は[こちら](https://play.google.com/store/apps/details?id=com.google.android.apps.meetings)から直接開くことができます。
+このページをandroid端末(スマートフォンもしくはタブレット)で見ている場合は[こちら](https://play.google.com/store/apps/details?id=com.google.android.apps.meetings){:target="_blank" :rel="noreferrer"}から直接開くことができます。
 
 ※androidのスマートフォンとタブレットのインストール手順は同じですので適宜読み替えてください。
 
