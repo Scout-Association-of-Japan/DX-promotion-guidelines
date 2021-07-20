@@ -2,8 +2,6 @@
 title: サブアカウントの追加方法
 ---
 
-2021/03/10 更新
-
 ## サブアカウントの追加方法
 
 [デジタルツール配布プログラム](https://www.scout.or.jp/member/digital_tool_program/){:target="_blank" :rel="noreferrer"}で配布しているアカウントにサブアカウントを追加する方法をご紹介します。
