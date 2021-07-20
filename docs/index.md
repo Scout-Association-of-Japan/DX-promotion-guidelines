@@ -48,15 +48,15 @@ Google Workspaceだけでなく各種ツールの使い方や疑問点など、D
 ## 利用規約/利用規範
 デジタルツールの利用にあたっては、以下の利用規約に同意し、利用規範を遵守してください。
 
-- [デジタルツール配布プログラム利用規約/利用規範](https://docs.google.com/document/d/e/2PACX-1vTgWKAjFIb0YqrtzVmrn7g-Fek3d13IJCZ9uoYrrtQ31qCHwS5EPJoxIBBq7nsrG3_FLx95qxkvljHI/pub)
+- [デジタルツール配布プログラム利用規約/利用規範](https://docs.google.com/document/d/e/2PACX-1vTgWKAjFIb0YqrtzVmrn7g-Fek3d13IJCZ9uoYrrtQ31qCHwS5EPJoxIBBq7nsrG3_FLx95qxkvljHI/pub){:target="_blank" :rel="noreferrer"}
 
 -----
 
 ## 貢献者
-- [本サイトの整備にご協力いただいた皆様](https://github.com/Scout-Association-of-Japan/DX-promotion-guidelines/blob/master/CONTRIBUTORS.md)
+- [本サイトの整備にご協力いただいた皆様](https://github.com/Scout-Association-of-Japan/DX-promotion-guidelines/blob/master/CONTRIBUTORS.md){:target="_blank" :rel="noreferrer"}
 
 -----
 
-このガイドは[ボーイスカウト日本連盟のGitHub](https://github.com/Scout-Association-of-Japan/DX-promotion-guidelines)で管理されています。
+このガイドは[ボーイスカウト日本連盟のGitHub](https://github.com/Scout-Association-of-Japan/DX-promotion-guidelines){:target="_blank" :rel="noreferrer"}で管理されています。
 
 皆様からの修正提案(Pull Request)や要望(Issue)などお待ちしております。

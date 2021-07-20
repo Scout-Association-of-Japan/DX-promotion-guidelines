@@ -22,7 +22,7 @@ Googleドライブを使用するとファイルをインターネット上の�
 ### googleドライブにアクセス
 ![](./images/1.jpg)
 
-ブラウザで[drive.google.com](https://drive.google.com/)にアクセスします。この時点でGoogleアカウントにログインをしていなければ`Googleドライブにアクセス`をクリックしてGoogleアカウントにログインしてください。
+ブラウザで[drive.google.com](https://drive.google.com/){:target="_blank" :rel="noreferrer"}にアクセスします。この時点でGoogleアカウントにログインをしていなければ`Googleドライブにアクセス`をクリックしてGoogleアカウントにログインしてください。
 
 ![](./images/2.jpg)
 アカウントにログイン後、googleドライブにアクセスするとこのような画面になります。

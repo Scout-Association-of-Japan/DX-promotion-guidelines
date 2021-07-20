@@ -2,7 +2,8 @@
 title: サブアカウントの追加方法
 ---
 
-[デジタルツール配布プログラム](https://www.scout.or.jp/member/digital_tool_program/)で配布しているアカウントにサブアカウントを追加する方法をご紹介します。
+
+[デジタルツール配布プログラム](https://www.scout.or.jp/member/digital_tool_program/){:target="_blank" :rel="noreferrer"}で配布しているアカウントにサブアカウントを追加する方法をご紹介します。
 
 ### サブアカウントでできること
 
@@ -15,15 +16,15 @@ title: サブアカウントの追加方法
 
         - 団および地区のアカウントが対象です(デジタルツール配布プログラム対象外県連は一部対象外)
         - 1つの親アカウントに対して **最大5つ** のサブアカウントの追加が可能です(団内で運用形態をよくご検討のうえ設定をお願いします)
-        - サブアカウントの利用者も [デジタルツール配布プログラム利用規約](https://docs.google.com/document/u/2/d/e/2PACX-1vTgWKAjFIb0YqrtzVmrn7g-Fek3d13IJCZ9uoYrrtQ31qCHwS5EPJoxIBBq7nsrG3_FLx95qxkvljHI/pub) を遵守していただきますようお願い致します。
+        - サブアカウントの利用者も [デジタルツール配布プログラム利用規約](https://docs.google.com/document/u/2/d/e/2PACX-1vTgWKAjFIb0YqrtzVmrn7g-Fek3d13IJCZ9uoYrrtQ31qCHwS5EPJoxIBBq7nsrG3_FLx95qxkvljHI/pub){:target="_blank" :rel="noreferrer"} を遵守していただきますようお願い致します。
 
 
 
 ## 作成方法
 
-1. [デジタルツール配布プログラム](https://www.scout.or.jp/member/digital_tool_program/)で配布しているアカウントにログインする
+1. [デジタルツール配布プログラム](https://www.scout.or.jp/member/digital_tool_program/){:target="_blank" :rel="noreferrer"}で配布しているアカウントにログインする
 
-2. [サブアカウント作成フォーム](https://script.google.com/a/macros/scout.jp/s/AKfycbyWtkZ8cpPoO_3P_p5btKYen3MqfVJ_5qsMW1ZvKcuLd5ZMBt2pkcm2JQ/exec)にアクセスする
+2. [サブアカウント作成フォーム](https://script.google.com/a/macros/scout.jp/s/AKfycbyWtkZ8cpPoO_3P_p5btKYen3MqfVJ_5qsMW1ZvKcuLd5ZMBt2pkcm2JQ/exec){:target="_blank" :rel="noreferrer"}にアクセスする
 
     - 作成したいアカウントのメールアドレスを入力する<br>
 (親アカウントが `test1@tokyo.scout.jp`の場合、`test1-{something}@tokyo.scout.jp` の形式になります)

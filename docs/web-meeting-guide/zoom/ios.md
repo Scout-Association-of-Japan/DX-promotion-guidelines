@@ -1,6 +1,6 @@
 # Zoom使い方ガイド iOS版
 
-[Zoom](https://zoom.us/)の無料プランを使ってオンラインミーティングを開催してみましょう。
+[Zoom](https://zoom.us/){:target="_blank" :rel="noreferrer"}の無料プランを使ってオンラインミーティングを開催してみましょう。
 
 ※無料プランはグループミーティングが40分に制限されています。
 
@@ -20,7 +20,7 @@
 ## Zoomのアプリをインストールする
 Zoomのアプリをインストールしておくと便利なので、まずはお使いのデバイスにアプリをインストールしましょう。
 
-[App Storeからのインストールはこちら](https://itunes.apple.com/us/app/id546505307)
+[App Storeからのインストールはこちら](https://itunes.apple.com/us/app/id546505307){:target="_blank" :rel="noreferrer"}
 ![](images/ios/ios_4.jpg)
 アプリを確認したら`入手`または`雲マーク`をタップしてインストールします。
 

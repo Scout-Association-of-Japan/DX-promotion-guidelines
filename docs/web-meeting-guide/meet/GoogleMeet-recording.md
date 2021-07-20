@@ -1,5 +1,5 @@
 # Google Meet 会議の録画ガイド
-[Google Meet](https://apps.google.com/meet/)で会議を録画する方法です。
+[Google Meet](https://apps.google.com/meet/){:target="_blank" :rel="noreferrer"}で会議を録画する方法です。
 
 
 ## 録画の開始
@@ -36,7 +36,7 @@ Meetで会議を開始したら右下のアイコンをクリックし、メニ�
 
 録画したファイルはGoogleドライブにアップされます。
 
-図のようにアイコンをクリックして[Googleドライブ](https://drive.google.com/)にアクセスします。
+図のようにアイコンをクリックして[Googleドライブ](https://drive.google.com/){:target="_blank" :rel="noreferrer"}にアクセスします。
 
 ![](images/rec-7.jpg)
 

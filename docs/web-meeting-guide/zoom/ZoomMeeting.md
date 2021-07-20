@@ -1,5 +1,5 @@
 # Zoom使い方ガイド パソコン版
-[Zoom](https://zoom.us/)の無料プランを使ってオンラインミーティングを開催してみましょう。
+[Zoom](https://zoom.us/){:target="_blank" :rel="noreferrer"}の無料プランを使ってオンラインミーティングを開催してみましょう。
 
 ※無料プランはグループミーティングが40分に制限されています。
 
@@ -11,9 +11,9 @@
 ## Zoomのアプリをインストールする
 Zoomのアプリをインストールしておくと便利なので、まずはお使いのデバイスにアプリをインストールしましょう。
 
-* パソコン(windowsやMacなど)は[こちら](https://us04web.zoom.us/download#client_4meeting)
-* iOS(iPhoneやiPad)は[こちら](https://itunes.apple.com/us/app/id546505307)
-* Androidは[こちら](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
+* パソコン(windowsやMacなど)は[こちら](https://us04web.zoom.us/download#client_4meeting){:target="_blank" :rel="noreferrer"}
+* iOS(iPhoneやiPad)は[こちら](https://itunes.apple.com/us/app/id546505307){:target="_blank" :rel="noreferrer"}
+* Androidは[こちら](https://play.google.com/store/apps/details?id=us.zoom.videomeetings){:target="_blank" :rel="noreferrer"}
 
 それぞれお使いのデバイスにあったZoomアプリケーションをインストールしてください。
 

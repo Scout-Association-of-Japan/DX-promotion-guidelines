@@ -22,7 +22,7 @@ Google Workspaceのアカウントにログインする。(日本連盟から発
 ### Googleアカウントへのログイン方法
 ![](images/1.jpg)
 
-ブラウザからに[googleにアクセス](https://google.com)して画面右上の ログイン をクリックします。
+ブラウザからに[googleにアクセス](https://google.com){:target="_blank" :rel="noreferrer"}して画面右上の ログイン をクリックします。
 
 ![](images/2.jpg)
 
