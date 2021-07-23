@@ -57,16 +57,16 @@ nav:
     - どの会議ツールを選んだらいいの?: web-meeting-guide/WhatShouldIChoose.md
     - Meetの使い方:
       - パソコン: web-meeting-guide/meet/GoogleMeet.md
-      - Meetの使い方(Android): web-meeting-guide/meet/GoogleMeet-android.md
-      - Meetの使い方(iOS): web-meeting-guide/meet/GoogleMeet-ios.md
+      - Android: web-meeting-guide/meet/GoogleMeet-android.md
+      - iOS: web-meeting-guide/meet/GoogleMeet-ios.md
     - Meetの高度な使い方:
       - 高度な使い方:  web-meeting-guide/meet/GoogleMeet-adv.md
       - カレンダーからMeetを予約する: web-meeting-guide/meet/GoogleMeet-calendar.md
       - Meetを録画する: web-meeting-guide/meet/GoogleMeet-recording.md
     - Zoomの使い方:
       - パソコン:  web-meeting-guide/zoom/ZoomMeeting.md
-      - Zoomの使い方(Android): web-meeting-guide/zoom/android.md
-      - Zoomの使い方(iOS): web-meeting-guide/zoom/ios.md
+      - Android: web-meeting-guide/zoom/android.md
+      - iOS: web-meeting-guide/zoom/ios.md
   - ファイル共有:
     - Googleドライブでファイル共有をしてみよう: file-share/HowToUseGDrive.md
   - リモートデスクトップ:
