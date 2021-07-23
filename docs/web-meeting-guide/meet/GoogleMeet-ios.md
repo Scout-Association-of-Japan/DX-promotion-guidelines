@@ -1,6 +1,4 @@
----
-title : Google Meet iOS端末にインストール&使い方
----
+# Meet使い方ガイド iOS版
 
 ## iPhoneまたはiPadにMeetのアプリをインストールする方法
 

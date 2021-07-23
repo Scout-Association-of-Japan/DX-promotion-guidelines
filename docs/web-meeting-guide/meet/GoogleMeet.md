@@ -1,4 +1,4 @@
-# Google Meet使い方ガイド
+# Meet使い方ガイド パソコン版
 
 [Google Meet](https://apps.google.com/meet/)を使ってオンラインミーティングを開催してみましょう。
 
