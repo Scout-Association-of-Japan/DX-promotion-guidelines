@@ -57,21 +57,25 @@ nav:
     - どの会議ツールを選んだらいいの?: web-meeting-guide/WhatShouldIChoose.md
     - Meetの使い方:
       - パソコン: web-meeting-guide/meet/GoogleMeet.md
-      - Android: web-meeting-guide/meet/GoogleMeet-android.md
-      - iOS: web-meeting-guide/meet/GoogleMeet-ios.md
+      - スマートフォン:
+        - はじめに: web-meeting-guide/meet/GoogleMeet-smartphone.md
+        - Android: web-meeting-guide/meet/GoogleMeet-android.md
+        - iOS: web-meeting-guide/meet/GoogleMeet-ios.md
     - Meetの高度な使い方:
       - 高度な使い方:  web-meeting-guide/meet/GoogleMeet-adv.md
       - カレンダーからMeetを予約する: web-meeting-guide/meet/GoogleMeet-calendar.md
       - Meetを録画する: web-meeting-guide/meet/GoogleMeet-recording.md
     - Zoomの使い方:
       - パソコン:  web-meeting-guide/zoom/ZoomMeeting.md
-      - Android: web-meeting-guide/zoom/android.md
-      - iOS: web-meeting-guide/zoom/ios.md
+      - スマートフォン:
+        - Android: web-meeting-guide/zoom/android.md
+        - iOS: web-meeting-guide/zoom/ios.md
   - ファイル共有:
     - Googleドライブでファイル共有をしてみよう: file-share/HowToUseGDrive.md
   - リモートデスクトップ:
     - リモートデスクトップを使ってみよう: remote-desktop/HowToUseChromeRD.md
   - よくある質問:
+    - よくある質問: faq/index.md
     - Google Workspaceへのログイン方法: google_workspace/how_to_login/index.md
     - サブアカウントの追加方法: faq/google_workspace/create_sub_accounts/index.md
     - パスワードを紛失してしまった場合: faq/google_workspace/password_recovery/index.md
