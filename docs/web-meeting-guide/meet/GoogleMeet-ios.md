@@ -16,7 +16,7 @@ App Store を起動します。
 
 ![](images/ios-3.jpg)
 
-検索ボックスに meet と入力して、右下の Search をタップします
+検索ボックスに Meet と入力して、右下の Search をタップします
 
 ![](images/ios-4.jpg)
 

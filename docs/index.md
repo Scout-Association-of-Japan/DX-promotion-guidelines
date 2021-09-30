@@ -9,7 +9,7 @@
 運営会議やインターネット集会の際に使えるWeb会議ツールについてご紹介します。
 
 - [どのWeb会議ツールを選んだらいいの？](web-meeting-guide/WhatShouldIChoose.md)
-- [meetでのグループ通話](web-meeting-guide/meet/GoogleMeet.md)
+- [Meetでのグループ通話](web-meeting-guide/meet/GoogleMeet.md)
 - [zoomでのグループ通話](web-meeting-guide/zoom/ZoomMeeting.md)
 
 -----
