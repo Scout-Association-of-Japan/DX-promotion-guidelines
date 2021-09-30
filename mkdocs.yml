@@ -12,6 +12,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.expand
+strict: true
 extra_css:
   - stylesheets/additional.css
 repo_url: https://github.com/Scout-Association-of-Japan/DX-promotion-guidelines
