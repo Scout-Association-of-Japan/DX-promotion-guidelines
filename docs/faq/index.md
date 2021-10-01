@@ -11,6 +11,7 @@
 - [サブアカウントの追加方法](google_workspace/create_sub_accounts/index.md)
 - [サブアカウントの作成フォームにアクセスできない](google_workspace/cannot_access_sub_account_form/index.md)
 - [パスワードを紛失してしまった場合](google_workspace/password_recovery/index.md)
+- [表示名を変更したい](google_workspace/how_to_change_name/index.md)
 - [Meetに関してよくある質問](meet/)
 - [Gmailに関してよくある質問](gmail/)
 
