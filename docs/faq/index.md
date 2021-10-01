@@ -9,6 +9,7 @@
 ## Google Workspace関連
 - [Google Workspaceへのログイン方法](../google_workspace/how_to_login/index.md)
 - [サブアカウントの追加方法](google_workspace/create_sub_accounts/index.md)
+- [サブアカウントの作成フォームにアクセスできない](google_workspace/cannot_access_sub_account_form/index.md)
 - [パスワードを紛失してしまった場合](google_workspace/password_recovery/index.md)
 - [Meetに関してよくある質問](meet/)
 - [Gmailに関してよくある質問](gmail/)
