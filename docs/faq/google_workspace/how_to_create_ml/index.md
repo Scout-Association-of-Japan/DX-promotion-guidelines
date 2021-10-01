@@ -13,7 +13,7 @@ title: メーリングリストの作り方
 1. [デジタルツール配布プログラム](https://www.scout.or.jp/member/digital_tool_program/){:target="_blank" :rel="noreferrer"}で配布しているアカウントにログインする
 2. [Googleグループ](https://groups.google.com/)にアクセスする
 
-以下の手順で作成を行って下さい。(メールアドレスなどは架空のものです)
+以下の手順で作成を行って下さい。(以下の解説で出てくるメールアドレスなどは架空のものです)
 
 ![01](./images/01.jpg)
 
