@@ -243,5 +243,9 @@ Googleカレンダーでミーティングの予定を設定するときに、�
 
 Meetの録画機能は2022年1月9日で終了しました。
 
-別の方法で画面録画をする方法は[こちら](/DX-promotion-guidelines/web-meeting-guide/meet/GoogleMeet-recording/)を確認参照して下さい
+別の方法で画面録画をする方法は[Google Meet 会議の録画ガイド](/DX-promotion-guidelines/web-meeting-guide/meet/GoogleMeet-recording/)を参照して下さい。
+
+## Meetで共同主催者を設定する
+
+[Meetで共同主催者を設定する](/DX-promotion-guidelines/web-meeting-guide/meet/GoogleMeet-co-hosts/)を参照して下さい。
 
