@@ -13,10 +13,10 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '15'
-      - name: Textlint review
+      - name: textlint-github-pr-check
         uses: tsuyoshicho/action-textlint@v3
         with:
           github_token: ${{ secrets.github_token }}
-          reporter: github-pr-review
-          level: warning
-          textlint_flags: "articles/**"
+          reporter: github-pr-check
+          level: error
+          textlint_flags: "docs/**"
