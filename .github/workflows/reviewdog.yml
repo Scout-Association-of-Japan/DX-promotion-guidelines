@@ -19,4 +19,4 @@ jobs:
           github_token: ${{ secrets.github_token }}
           reporter: github-pr-review
           level: warning
-          textlint_flags: "articles/**"
+          textlint_flags: "docs/**"
