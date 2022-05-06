@@ -4,7 +4,7 @@
   "description": "[ホーム](./Home.md)",
   "main": "index.js",
   "scripts": {
-    "lint": "textlint *.md, *.yml"
+    "lint": "textlint **/*.md, **/*.yml"
   },
   "repository": {
     "type": "git",
