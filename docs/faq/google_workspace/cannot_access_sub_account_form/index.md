@@ -7,7 +7,7 @@ title: サブアカウントの作成フォームにアクセスできない
 
 ## アクセス方法
 
-1. 全てのGoogleアカウントから[ログアウト](https://accounts.google.com/logout)する
+1. 全てのGoogleアカウントから[ログアウト](https://accounts.google.com/logout)する!
 
 2. [デジタルツール配布プログラム](https://www.scout.or.jp/member/digital_tool_program/){:target="_blank" :rel="noreferrer"}で配布しているアカウントにログインする
 
