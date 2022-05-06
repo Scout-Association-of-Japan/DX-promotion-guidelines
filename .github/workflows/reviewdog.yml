@@ -5,10 +5,15 @@ jobs:
     name: runner / textlint
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v2
         with:
           submodules: true
-      - name: textlint-github-pr-review
+      - name: Setup node/npm
+        uses: actions/setup-node@v1
+        with:
+          node-version: '15'
+      - name: Textlint review
         uses: tsuyoshicho/action-textlint@v3
         with:
           github_token: ${{ secrets.github_token }}
