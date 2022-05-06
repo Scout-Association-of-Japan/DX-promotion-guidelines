@@ -11,7 +11,7 @@ title : Google Meet スマートフォン & タブレットでの利用につい
 - Android(ver 5.0以降)の方はGoogleアカウントが必要です [Google Play でインストール](https://play.google.com/store/apps/details?id=com.google.android.apps.meetings){:target="_blank" :rel="noreferrer"}
 
 
-詳しくは以下の各セクションをご覧下さい
+詳しくは以下の各セクションをご覧下さい。
 
 - [iOS端末にインストール&会議へ参加する方法](GoogleMeet-ios.md)
 - [android端末にインストール&会議へ参加する方法](GoogleMeet-android.md)
