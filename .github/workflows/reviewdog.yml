@@ -5,7 +5,7 @@ jobs:
     name: runner / textlint
     runs-on: ubuntu-latest
     steps:
-      - name: Check out
+      - name: Checkout
         uses: actions/checkout@v2
         with:
           submodules: true
