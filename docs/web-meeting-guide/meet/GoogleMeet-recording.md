@@ -14,3 +14,4 @@ Windows、Mac共にOS標準機能により画面の録画が可能です。
 [Windows 10ミニTips\(482\) 無料でWeb会議の映像\+音声を録画する \| マイナビニュース](https://news.mynavi.jp/article/win10tips-482/)
 
 [Mac で画面を収録する方法 \- Apple サポート \(日本\)](https://support.apple.com/ja-jp/HT208721)
+
