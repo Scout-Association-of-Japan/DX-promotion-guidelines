@@ -4,7 +4,7 @@
   "description": "[ホーム](./Home.md)",
   "main": "index.js",
   "scripts": {
-    "lint": "textlint *.md"
+    "lint": "textlint docs/**"
   },
   "repository": {
     "type": "git",
@@ -17,8 +17,9 @@
   },
   "homepage": "https://github.com/Scout-Association-of-Japan/DX-promotion-guidelines#readme",
   "devDependencies": {
-    "textlint": "^11.7.6",
+    "textlint": "^12.5.1",
     "textlint-rule-preset-ja-spacing": "^2.0.2",
-    "textlint-rule-preset-ja-technical-writing": "^4.0.1"
+    "textlint-rule-preset-ja-technical-writing": "^4.0.1",
+    "textlint-filter-rule-allowlist": "^4.0.0"
   }
 }

@@ -1,0 +1,91 @@
+site_name: ボーイスカウト日本連盟 デジタルツール利用ガイド
+copyright: Copyright &copy; 2020- Scout Association of Japan
+site_url: https://scout-association-of-japan.github.io/DX-promotion-guidelines/
+theme:
+  name: material
+  custom_dir: overrides
+  language: ja
+  logo: images/saj_logo.png
+  favicon: images/saj_logo.png
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.tabs
+    - navigation.expand
+strict: true
+extra_css:
+  - stylesheets/additional.css
+repo_url: https://github.com/Scout-Association-of-Japan/DX-promotion-guidelines
+repo_name: Fork me on GitHub
+extra:
+  analytics:
+    provider: google
+    property: G-D2E61LC0JY
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/ScoutingJapan
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/user/ScoutingJapan
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/scout.or.jp
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/scout_association_of_japan/
+plugins:
+  - search:
+      lang: ja
+  - git-revision-date
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - footnotes
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+nav:
+  - ホーム: index.md
+  - Web会議ツール:
+    - どの会議ツールを選んだらいいの?: web-meeting-guide/WhatShouldIChoose.md
+    - Meetの使い方:
+      - パソコン: web-meeting-guide/meet/GoogleMeet.md
+      - スマートフォン:
+        - はじめに: web-meeting-guide/meet/GoogleMeet-smartphone.md
+        - Android: web-meeting-guide/meet/GoogleMeet-android.md
+        - iOS: web-meeting-guide/meet/GoogleMeet-ios.md
+    - Meetの高度な使い方:
+      - 高度な使い方:  web-meeting-guide/meet/GoogleMeet-adv.md
+      - カレンダーからMeetを予約する: web-meeting-guide/meet/GoogleMeet-calendar.md
+      - Meetを録画する: web-meeting-guide/meet/GoogleMeet-recording.md
+      - Meetで共同主催者を設定する: web-meeting-guide/meet/GoogleMeet-co-hosts.md
+    - Zoomの使い方:
+      - パソコン:  web-meeting-guide/zoom/ZoomMeeting.md
+      - スマートフォン:
+        - Android: web-meeting-guide/zoom/android.md
+        - iOS: web-meeting-guide/zoom/ios.md
+  - ファイル共有:
+    - Googleドライブでファイル共有をしてみよう: file-share/HowToUseGDrive.md
+  - リモートデスクトップ:
+    - リモートデスクトップを使ってみよう: remote-desktop/HowToUseChromeRD.md
+  - よくある質問:
+    - よくある質問: faq/index.md
+    - Google Workspaceへのログイン方法: google_workspace/how_to_login/index.md
+    - Googleアカウントの表示名を変更する方法: faq/google_workspace/how_to_change_name/index.md
+    - サブアカウントの追加方法: faq/google_workspace/create_sub_accounts/index.md
+    - サブアカウントの追加方法サブアカウントの作成フォームにアクセスできない: faq/google_workspace/cannot_access_sub_account_form/index.md
+    - パスワードを紛失してしまった場合: faq/google_workspace/password_recovery/index.md
+    - メーリングリストを作りたい: faq/google_workspace/how_to_create_ml/index.md
+    - Meetに関してよくある質問: faq/meet/index.md
+    - Gmailのよくある質問: faq/gmail/index.md
+  - フォーラム:
+    - デジタルツール提供プログラム利用グループ: group/HowtoUseUserForum.md
+  - パスワード再発行: faq/google_workspace/password_recovery/index.md

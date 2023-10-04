@@ -1,7 +1,18 @@
 {
+  "filters": {
+    "allowlist": {
+      "allow": [
+        "!!! info",
+        "!!! warning",
+        "!!! question",
+        "!!! tip",
+        "!!! hint"
+      ]
+    }
+  },
   "plugins": {
     "@textlint/markdown": {
-      "extensions": [".md"]
+      "extensions": [".md",".yml"]
     }
   },
   "rules": {
@@ -21,9 +32,18 @@
         "after": true
       }
     },
+    "ja-technical-writing/ja-no-successive-word": false, //・・・を許可
+    "ja-technical-writing/sentence-length": false, //100文字数制限の無効化
     "ja-technical-writing/ja-no-mixed-period": {
-      "allowPeriodMarks": [":"],
+      // 優先する句点文字
+      "periodMark": "。",
+      // 句点文字として許可する文字列の配列
+      "allowPeriodMarks": ["、", "。", " ", "・・・", ":","：", "|"],
+      // 末尾に絵文字を置くことを許可するか
+      "allowEmojiAtEnd": false,
+      // 句点で終わって無い場合に`periodMark`を--fix時に追加するかどうか
+      "forceAppendPeriod": false
     },
-    "ja-technical-writing/sentence-length": false //100文字数制限の無効化
+    "ja-technical-writing/no-doubled-joshi": false
   }
 }
