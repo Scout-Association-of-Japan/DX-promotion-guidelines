@@ -23,7 +23,7 @@ title: サブアカウントの追加方法
 
 1. [デジタルツール配布プログラム](https://www.scout.or.jp/member/digital_tool_program/){:target="_blank" :rel="noreferrer"}で配布しているアカウントにログインする
 
-2. [サブアカウント作成フォーム](https://script.google.com/a/macros/scout.jp/s/AKfycbyWtkZ8cpPoO_3P_p5btKYen3MqfVJ_5qsMW1ZvKcuLd5ZMBt2pkcm2JQ/exec){:target="_blank" :rel="noreferrer"}にアクセスする
+2. [サブアカウント作成フォーム](https://script.google.com/a/macros/scout.jp/s/AKfycbyZj_1WKLqATmwS1psdQRAGo3mhyQbPhfSjp-3lm44rkJivb14aapWFMiJFDyG_ZzEqiQ/exec){:target="_blank" :rel="noreferrer"}にアクセスする
 
     - 作成したいアカウントのメールアドレスを入力する<br>
 (親アカウントが `test1@tokyo.scout.jp`の場合、`test1-{something}@tokyo.scout.jp` の形式になります)

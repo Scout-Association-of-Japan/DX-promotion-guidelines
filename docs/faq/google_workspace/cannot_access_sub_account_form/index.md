@@ -11,7 +11,7 @@ title: サブアカウントの作成フォームにアクセスできない
 
 2. [デジタルツール配布プログラム](https://www.scout.or.jp/member/digital_tool_program/){:target="_blank" :rel="noreferrer"}で配布しているアカウントにログインする
 
-3. [サブアカウント作成フォーム](https://script.google.com/a/macros/scout.jp/s/AKfycbyWtkZ8cpPoO_3P_p5btKYen3MqfVJ_5qsMW1ZvKcuLd5ZMBt2pkcm2JQ/exec){:target="_blank" :rel="noreferrer"}にアクセスする
+3. [サブアカウント作成フォーム](https://script.google.com/a/macros/scout.jp/s/AKfycbyZj_1WKLqATmwS1psdQRAGo3mhyQbPhfSjp-3lm44rkJivb14aapWFMiJFDyG_ZzEqiQ/exec){:target="_blank" :rel="noreferrer"}にアクセスする
 
 !!! warning "再ログインが必要です"
     全てのGoogleからログアウトすると、普段お使いのGoogleアカウントからもログアウトします。
